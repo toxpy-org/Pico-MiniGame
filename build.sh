@@ -13,7 +13,8 @@ cd build
 
 # Download Pico SDK at 
 # https://github.com/raspberrypi/pico-sdk.git
-export PICO_SDK_PATH="/PATH/TO/PICO-SDK"
+# export PICO_SDK_PATH="/PATH/TO/PICO-SDK"
+export PICO_SDK_PATH="/home/natoxpy/projects/pico-sdk"
 
 # Change this to `pico` if using Pi Pico and not the Pi Pico W. 
 cmake -DPICO_BOARD=pico_w ..

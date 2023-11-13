@@ -18,11 +18,11 @@ include_directories(./lib/GUI)
 include_directories(./lib/LCD)
 
 add_executable(
-    hello_world
+    GAME
     ./src/main.c
 )
 
-target_link_libraries(hello_world 
+target_link_libraries(GAME 
     pico_stdlib
     pico_cyw43_arch_none     
     hardware_adc
@@ -32,8 +32,7 @@ target_link_libraries(hello_world
     Config
 )
 
-pico_enable_stdio_usb(hello_world 1)
-pico_enable_stdio_uart(hello_world 0)
+pico_enable_stdio_usb(GAME 1)
+pico_enable_stdio_uart(GAME 0)
 
-
-pico_add_extra_outputs(hello_world)
+pico_add_extra_outputs(GAME)
