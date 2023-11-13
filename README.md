@@ -7,9 +7,7 @@ which will make you immune to the red boxes while also destroying them on contac
 While speed boost will just   
 
 # Gameplay
-<video height="420" controls>
-  <source src="./media/IMG_5523.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mGq_IOV7r4Y?si=BwyjoiaQS1UbABmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Build
 1. First download the [Pico SDK](https://github.com/raspberrypi/pico-sdk.git).
