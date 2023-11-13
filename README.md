@@ -8,7 +8,7 @@ While speed boost will just
 
 # Gameplay
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mGq_IOV7r4Y?si=BwyjoiaQS1UbABmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/mGq_IOV7r4Y?si=BwyjoiaQS1UbABmG)
 
 # Build
 1. First download the [Pico SDK](https://github.com/raspberrypi/pico-sdk.git).
