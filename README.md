@@ -6,9 +6,7 @@ Enegy is used to activate an immunity mode
 which will make you immune to the red boxes while also destroying them on contact. 
 While speed boost will just   
 
-# Gameplay
-
-![](https://www.youtube.com/embed/mGq_IOV7r4Y?si=BwyjoiaQS1UbABmG)
+# [Gameplay video](https://youtu.be/mGq_IOV7r4Y)
 
 # Build
 1. First download the [Pico SDK](https://github.com/raspberrypi/pico-sdk.git).
